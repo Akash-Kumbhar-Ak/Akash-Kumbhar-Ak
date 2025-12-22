@@ -17,7 +17,7 @@ Hi, I’m Akash Kumbhar, a passionate Software Developer with a strong interest 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kumbhar-Ak&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Akash-Kumbhar-Ak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <div align="center">
