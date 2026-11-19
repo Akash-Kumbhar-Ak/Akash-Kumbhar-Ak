@@ -134,15 +134,11 @@ I'm **Akash Kumbhar**, an MCA graduate and passionate software developer interes
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akash-Kumbhar-Ak&theme=algolia&no-frame=true&margin-w=5)
-
----
-
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Akash-Kumbhar-Ak/Akash-Kumbhar-Ak/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
