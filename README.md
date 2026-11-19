@@ -1,39 +1,163 @@
-## Hi ..! I'm Akash Kumbhar👋
+# 👋 Hi, I'm Akash Kumbhar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akash_kumbhar______/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-kumbhar-67540a22a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17524307/akash-kumbhar) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Akash-Kumbhar-the-typescripter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkumbhar3112@gmail.com) 
+### Python Backend Developer | Data Engineer | AI/ML Enthusiast
 
-# 💫 About Me:
-Hi, I’m Akash Kumbhar, a passionate Software Developer with a strong interest in backend development, full-stack applications, and AI-driven systems. I enjoy building scalable, real-world solutions and continuously improving my problem-solving skills.<br><br>I have hands-on experience with Python, C++, JavaScript, SQL, and modern web technologies, and I’ve worked on projects involving REST APIs, databases, and computer vision. My final year project focused on applying AI/ML techniques to solve practical problems, giving me exposure to end-to-end system design.<br><br>I believe in clean code, continuous learning, and practical implementation, and I actively work on personal and academic projects to strengthen my technical foundation.
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Data+Engineering+Enthusiast;AI%2FML+Developer;Building+Real-World+Applications](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Python+Backend+Developer;Data+Engineering+Enthusiast;AI%2FML+Developer;Building+Real-World+Applications)" alt="Typing SVG" />
+\</p>
 
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akash-Kumbhar-Ak&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akash-Kumbhar-Ak&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kumbhar-Ak&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash-Kumbhar-Ak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akash-Kumbhar-Ak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=Akash-Kumbhar-Ak&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=Akash-Kumbhar-Ak\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />
+\</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akash-Kumbhar-Ak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
+I'm **Akash Kumbhar**, an MCA graduate and passionate software developer interested in Python backend development, data engineering, and artificial intelligence.
 
+- 🎓 MCA Graduate – KLE College of Engineering & Technology, Chikodi (2025).
+- 🐍 Interested in Python programming and backend development.
+- 💻 Working with Python, SQL, REST APIs, and databases.
+- 📊 Exploring Data Engineering, Data Analytics, and ETL concepts.
+- 🤖 Learning Machine Learning, Deep Learning, and Generative AI.
+- 🔨 Enjoy building real-world applications and solving technical problems.
+- 🌱 Continuously learning and improving my development skills.
 
+**Current Focus:** Python | SQL | Backend Development | Data Engineering | AI/ML
+
+---
+
+## 🌐 Connect With Me
+
+\<p align="left">
+&#x20; \<a href="[https://www.instagram.com/akash_kumbhar\_\_\_\_\_\_/](https://www.instagram.com/akash_kumbhar______/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" alt="Instagram" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/akash-kumbhar-67540a22a/](https://www.linkedin.com/in/akash-kumbhar-67540a22a/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="[https://stackoverflow.com/users/17524307/akash-kumbhar](https://stackoverflow.com/users/17524307/akash-kumbhar)">
+&#x20;   \<img src="[https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge\&logo=stackoverflow\&logoColor=white)" alt="Stack Overflow" />
+&#x20; \</a>
+&#x20; \<a href="[https://codepen.io/Akash-Kumbhar-the-typescripter](https://codepen.io/Akash-Kumbhar-the-typescripter)">
+&#x20;   \<img src="[https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white](https://img.shields.io/badge/CodePen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)" alt="CodePen" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:akashkumbhar3112\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
+&#x20; \</a>
+\</p>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,dart](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,dart)" />
+\</p>
+
+### Backend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express](https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express)" />
+\</p>
+
+### Frontend Development
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,angular,tailwind,ionic](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,angular,tailwind,ionic)" />
+\</p>
+
+### Databases
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase)" />
+\</p>
+
+### Data Science & Machine Learning
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,opencv,matplotlib](https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,opencv,matplotlib)" />
+\</p>
+
+### Cloud, DevOps & Tools
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,aws,gcp,azure,postman,vscode,figma,vercel](https://skillicons.dev/icons?i=git,github,docker,aws,gcp,azure,postman,vscode,figma,vercel)" />
+\</p>
+
+---
+
+## 🛠️ Featured Projects
+
+### ⚡ PowerGuard AI – Electricity Theft Detection System
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, FastAPI, React
+
+- Developed an AI-powered platform to identify abnormal electricity consumption patterns.
+- Applied machine learning algorithms for anomaly detection and theft classification.
+- Implemented customer risk scoring from 0–100.
+- Built interactive dashboards and REST API integrations.
+- Worked on data preprocessing and feature engineering.
+
+### 🥛 FreshMoo – Milk Product Management Platform
+
+**Tech Stack:** Ionic, JavaScript, PHP, SQL, REST APIs
+
+- Developed a platform connecting dairy suppliers with store owners.
+- Worked on Admin, Supplier, and Store Owner modules.
+- Implemented product, order, and user management functionality.
+- Contributed to the development of application workflows.
+
+### 💧 PureDrop – Water Supply Management Application
+
+**Tech Stack:** Ionic, JavaScript, Backend APIs, Database
+
+- Developed a water supply management application.
+- Worked on User, Supplier, and Admin modules.
+- Implemented order and service management functionality.
+
+---
+
+## 📊 GitHub Statistics
+
+\<p align="center">
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Akash-Kumbhar-Ak&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Akash-Kumbhar-Ak\&show_icons=true\&theme=gotham\&hide_border=true\&include_all_commits=true)" alt="GitHub Stats" />
+&#x20; \<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumbhar-Ak&theme=gotham&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumbhar-Ak\&theme=gotham\&hide_border=true)" alt="GitHub Streak" />
+\</p>
+
+\<p align="center">
+&#x20; \<img width="45%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kumbhar-Ak&layout=compact&theme=gotham&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kumbhar-Ak\&layout=compact\&theme=gotham\&hide_border=true)" alt="Top Languages" />
+\</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=Akash-Kumbhar-Ak&theme=algolia&no-frame=true&margin-w=5](https://github-profile-trophy.vercel.app/?username=Akash-Kumbhar-Ak\&theme=algolia\&no-frame=true\&margin-w=5)" alt="GitHub Trophies" /> \</p>
+
+---
+
+## 🐍 Contribution Snake
+
+\<p align="center">   \<img src="[https://raw.githubusercontent.com/Akash-Kumbhar-Ak/Akash-Kumbhar-Ak/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Akash-Kumbhar-Ak/Akash-Kumbhar-Ak/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake" /> \</p>
+
+---
+
+## 💡 Developer Quote
+
+\<p align="center">
+&#x20; \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)" alt="Developer Quote" />
+\</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in learning new technologies, collaborating on exciting projects, and connecting with developers.
+
+**"Consistency, curiosity, and continuous learning are the keys to becoming a better developer."**
+
+\<p align="center">   ⭐ Thanks for visiting my profile! Happy Coding! 🚀 \</p>
